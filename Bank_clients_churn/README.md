@@ -11,3 +11,6 @@
 **Входные данные:**  
 Исторические сведения об активности клиентов банка. 
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
+
+**Навыки и инструменты:**
+pandas, scipy, sklearn

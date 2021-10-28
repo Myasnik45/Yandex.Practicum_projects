@@ -13,3 +13,6 @@
 
 **Область применения:**  
 - Промышленность
+
+**Навыки и инструменты:**
+pandas, numpy, seaborn, matplotlib, sklearn, xgboost, catboost
